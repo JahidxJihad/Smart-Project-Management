@@ -1,1 +1,1 @@
-# Smart-Project-Management
+# Smart Project Management
